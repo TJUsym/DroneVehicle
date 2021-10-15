@@ -1,6 +1,6 @@
 # VisDrone-DroneVehicle
 
-Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning [(paper)](waiting).
+Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning [(paper)](https://arxiv.org/abs/2003.02437).
 
 ![VisDrone](https://github.com/VisDrone/DroneVehicle/blob/master/framework.png)
 
